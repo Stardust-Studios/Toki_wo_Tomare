@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\BlockBehavior.cs" />
+    <Compile Include="Assets\Scripts\Drag.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/ragha/Documents/GitHub/Toki_wo_Tomare/Dio/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
